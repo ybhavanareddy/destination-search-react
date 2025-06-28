@@ -13,7 +13,7 @@ A responsive React application that allows users to search through a list of tra
 
 ## 🚀 Live Demo
 
-👉 [Live App]
+👉 [Live App] https://destination-search-react.vercel.app/
 
 ## 📂 Folder Structure
 
